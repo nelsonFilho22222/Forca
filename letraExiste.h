@@ -1,0 +1,3 @@
+
+bool letraExiste(char chute)
+

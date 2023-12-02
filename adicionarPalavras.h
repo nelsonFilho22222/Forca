@@ -1,0 +1,7 @@
+#ifndef ADICIONARPALAVRAS_H_INCLUDED;
+#define ADICIONARPALAVRAS_H_INCLUDED;
+
+void adicionarPalavras()
+
+#endif // ADICIONARPALAVRAS_H_INCLUDED;
+;
